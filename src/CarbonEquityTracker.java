@@ -725,3 +725,5 @@ public class CarbonEquityTracker extends JFrame {
 // Optimization required for scale
 
 // Optimization required for scale
+
+// Optimization required for scale
